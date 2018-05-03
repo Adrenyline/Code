@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item Tutorial", "Item Tutorial.csproj", "{47CE5B7C-6F28-3E57-BDAB-F1EC40B015DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item Tutorial.Editor", "Item Tutorial.Editor.csproj", "{FD7C9B05-53FC-5F34-717D-27220D3B3DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CE5B7C-6F28-3E57-BDAB-F1EC40B015DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CE5B7C-6F28-3E57-BDAB-F1EC40B015DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CE5B7C-6F28-3E57-BDAB-F1EC40B015DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CE5B7C-6F28-3E57-BDAB-F1EC40B015DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7C9B05-53FC-5F34-717D-27220D3B3DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7C9B05-53FC-5F34-717D-27220D3B3DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7C9B05-53FC-5F34-717D-27220D3B3DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7C9B05-53FC-5F34-717D-27220D3B3DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
